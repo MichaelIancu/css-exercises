@@ -1,0 +1,19 @@
+.type1 {
+    background-color: #e79191;
+    font-family:Verdana, DejaVu Sans, sans-serif
+}
+
+#type2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.type3 {
+    font-size: 24px;
+}
+
+#type4 {
+    background-color: #89cb89;
+    font-size: 24px;
+    font-style: bold;
+}
